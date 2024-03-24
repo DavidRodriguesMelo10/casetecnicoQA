@@ -1,29 +1,28 @@
 # casetecnicoQA
-Case técnico para QA (MEUTUDO)
 
+<h1 align="left">
+Case técnico para QA (MEUTUDO)
+</h1>
+
+<hr>
 <h3 align="center">Automação Web</h3>
 
+<p align="justify">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;JavaScritpt<br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Cypress<br>
 
-<h3 align="center">Linguagem</h3>
--JAVASCRIPT
+</hr>
 
-
-
-<h3 align="center">Framework</h3>
--CYPRESS
-
-
+<hr>
 <h3 align="center">Como executar</h3>
 
-
-git clone
-https://github.com/DavidRodriguesMelo10/casetecnicoQA.git
-
-cd casetecnicoQA
-npm install
-npm start
-npm run cy:open
-
+<li>git clone</li>
+<li>https://github.com/DavidRodriguesMelo10/casetecnicoQA.git</li>
+<li>cd casetecnicoQA</li>
+<li>npm install</li>
+<li>npm start</li>
+<li>npm run cy:open</li>
+</hr>
 
 
 
