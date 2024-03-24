@@ -13,15 +13,18 @@ Case técnico para QA (MEUTUDO)
 -CYPRESS
 <pre>
 
-<h3 align="center">Framework</h3>
+<h3 align="center">Como executar</h3>
 
 <pre>
 git clone
-https://github.com/cypress-io/cypress-example-kitchensink.git
+https://github.com/DavidRodriguesMelo10/casetecnicoQA.git
 
-cd cypress-example-kitchensink
+cd casetecnicoQA
 npm install
 npm start
 npm run cy:open
 </pre>
+
+
+
 
