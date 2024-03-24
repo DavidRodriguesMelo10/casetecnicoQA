@@ -1,4 +1,3 @@
-# casetecnicoQA
 
 <h1 align="left">
 Case técnico para QA (MEUTUDO)
@@ -22,6 +21,8 @@ Case técnico para QA (MEUTUDO)
 <li>npm install</li>
 <li>npm start</li>
 <li>npm run cy:open</li>
+
+OBS: é necessario a instalação do Node.js
 </hr>
 
 
